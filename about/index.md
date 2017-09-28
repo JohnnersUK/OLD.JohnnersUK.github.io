@@ -9,16 +9,12 @@ comments: false
 <center>
 <figure>
         <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/p160x160/17022349_1563370107026484_2031413660904259523_n.jpg?oh=75176271cc0992458418a0ecf125c251&oe=5A3E3807">
-		<figcaption>Da Boss!</figcaption>
+		<figcaption>@EdenProject</figcaption>
 </figure>
 
 </center>
 
 ## About Me
-Career started here.. I've obtained these grades. I make games, sometimes I program. Occasionally, there are students, they ask a lot of questions. I do my best. Possibly not selling myself in the best light.
-
-Studied at UWE, on the Games Technology degree. Went on to study my masters at Goldsmiths. Passionate gamer, it's the games that drive me and not the coding.
-
-So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
+Insert generic 'about me' here
       
-[Contact Me](https://github.com/TaylanTatli/Moon){: .btn}
+[Contact Me](https://github.com/JohnnersUK){: .btn}
