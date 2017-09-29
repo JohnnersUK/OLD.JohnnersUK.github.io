@@ -15,6 +15,11 @@ comments: false
 </center>
 
 ## About Me
-Insert generic 'about me' here
+Young and aspiring student with a passion for video games, currently studying Games Technology(Bsc) at The university of the west of england (Aka UWE) with a background in Computer Science, Information Technology and Physics.
+
+I've always had a passion for computers, video games and programing and its been my dream for quite a while now to work as a part
+of a development team, wether im programing or head of desing, as long as its not art related I really don't mind (I suck at drawing).
+
+I also happen to blog, [stream games](www.twitch.tv/johnners007) and play the guitar, the more you know.
       
 [Contact Me](https://github.com/JohnnersUK){: .btn}
