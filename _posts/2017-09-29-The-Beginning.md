@@ -1,4 +1,12 @@
+---
+layout: post
+title: "The beginning"
+date: 2017-09-20
+excerpt: "Getting the hang of things."
+tags: [git]
 feature: https://git-scm.com/images/about/index1@2x.png
+comments: true
+---
 Git is a pain in the ass to use but alas here is my first post!
 
 I think im finally getting the hang of this whole add, commit, push malarky.
