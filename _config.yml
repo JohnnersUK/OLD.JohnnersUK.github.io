@@ -22,9 +22,12 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+#Fixed updates
+timezone:           Europe/London
+future:             true
 
 # Comments
-disqus_shortname:   
+disqus_shortname:   Johnners
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -35,7 +38,7 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:               oscarjohnson.acs@gmail.com
 #twitter:            huxyuk
 #facebook:           username
 #github-url:         huxyuk
