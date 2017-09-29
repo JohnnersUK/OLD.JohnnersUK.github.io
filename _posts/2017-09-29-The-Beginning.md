@@ -1,7 +1,7 @@
-Feature: https://git-scm.com/images/about/index1@2x.png
+feature: https://git-scm.com/images/about/index1@2x.png
 Git is a pain in the ass to use but alas here is my first post!
 
-I think im finally getting the hang of this whole clone, pull, add, push, repeat malarky.
+I think im finally getting the hang of this whole add, commit, push malarky.
 Just don't ask me how to fix anything if it breaks.
 
 Found a useful guide online that underlines the [basics of Jekyll](https://jekyllrb.com/docs/posts/) as well as a [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
