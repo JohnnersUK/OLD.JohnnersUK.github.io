@@ -5,7 +5,7 @@ description:        "An up to date portfolio of my work so far"
 reading_time:       true
 words_per_minute:   200
 logo:               'https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/p160x160/17022349_1563370107026484_2031413660904259523_n.jpg?oh=75176271cc0992458418a0ecf125c251&oe=5A3E3807'
-background:         'http://www.wallpapermade.com/images/wallpapers/originals/the-witcher-3-wild-hunt-beautiful-landscape-wallpaper-4461.jpg'
+background:         'assets/img/brickwall_@2X.png'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://johnnersuk.github.io
@@ -52,7 +52,7 @@ email:               oscarjohnson.acs@gmail.com
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:             johnners007
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
