@@ -24,11 +24,14 @@ Young and aspiring student with a passion for video games, currently studying Ga
 
 Currently, I have made 3 prototype games which you can find in the projects section of this portfolio.
 
-[Super maths game](); A 2d shooter inspired by super crate box, aimed to help kids practise maths in a friendly environment.
+### [Super maths game]();
+A 2d shooter inspired by super crate box, aimed to help kids practise maths in a friendly environment.
 
-[Minesweeper 2.0](); A super light, cmd edition of minesweeper that can run on virtually any windows machine.
+### [Minesweeper 2.0]();
+A super light, cmd edition of minesweeper that can run on virtually any windows machine.
 
-And finally, [Atomic action](); A fast paced arcade game on mobile, where players are tasked with sorting atoms in a power plant
+### And finally, [Atomic action]();
+A fast paced arcade game on mobile, where players are tasked with sorting atoms in a power plant
 
 ---
 
