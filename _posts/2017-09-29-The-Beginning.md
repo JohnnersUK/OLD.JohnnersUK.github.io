@@ -24,8 +24,9 @@ with my peers so I'll report on my findings as well as the final slides.
 
 #### Useful links
 Markdown cheat sheet: [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-Jekyll documentation: [Here](https://jekyllrb.com/docs)
-Moon theme: [And here](https://taylantatli.github.io/Moon/)
 
----
+Jekyll documentation: [Here](https://jekyllrb.com/docs)
+
+Moon theme: [here](https://github.com/TaylanTatli/Moon)
+
 
