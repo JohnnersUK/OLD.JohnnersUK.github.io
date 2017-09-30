@@ -1,11 +1,12 @@
 ---
-layout: project
-title: Super Maths Game
-date: 2017/09/30
-excerpt: "A 2d shooter inspired by super crate box, aimed to help kids practise maths in a friendly environment."
+layout: post
+title:  "Super maths game"
+date:   2017/09/30
+excerpt: "A 2D side shooter made to help kids revise maths"
 project: true
+tag:
+- project
 comments: true
-tags: - project
 ---
 
 # Super Maths Game
