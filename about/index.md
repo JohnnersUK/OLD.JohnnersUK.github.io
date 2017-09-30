@@ -23,8 +23,11 @@ comments: false
 Young and aspiring student with a passion for video games, currently studying Games Technology(Bsc) at The university of the west of England (UWE) with a background in Computer Science, Physics and Information Technology. I've always had a passion for computers, video games and programing. For as long as I can remember it has been my dream to work a key role in a development team for a major studio.
 
 Currently, I have made 3 prototype games which you can find in the projects section of this portfolio.
+
 [Super maths game](); A 2d shooter inspired by super crate box, aimed to help kids practise maths in a friendly environment.
+
 [Minesweeper 2.0](); A super light, cmd edition of minesweeper that can run on virtually any windows machine.
+
 And finally, [Atomic action](); A fast paced arcade game on mobile, where players are tasked with sorting atoms in a power plant
 
 ---
