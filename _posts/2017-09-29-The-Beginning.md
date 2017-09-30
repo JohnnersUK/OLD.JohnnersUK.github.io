@@ -7,7 +7,7 @@ tags: [git]
 feature: https://git-scm.com/images/about/index1@2x.png
 comments: true
 ---
-###Git is a pain in the ass to use but alas here is my first post!
+### Git is a pain in the ass to use but alas here is my first post!
 I think im finally getting the hang of this whole add, commit, push malarky.
 Just don't ask me how to fix anything if it breaks.
 
@@ -19,9 +19,13 @@ so i'm going to try and break this site down and make it my own as well as getti
 
 Expect more posts soon, I've been tasked with making a presentation about static memory allocation
 with my peers so I'll report on my findings as well as the final slides.
+
 ---
-###Useful links 
-Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
-Jekyll documentation: https://jekyllrb.com/docs
-Moon theme: https://taylantatli.github.io/Moon/
+
+#### Useful links
+Markdown cheat sheet: [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+Jekyll documentation: [Here](https://jekyllrb.com/docs)
+Moon theme: [And here](https://taylantatli.github.io/Moon/)
+
 ---
+
