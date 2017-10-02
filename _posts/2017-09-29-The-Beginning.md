@@ -3,7 +3,8 @@ layout: post
 title: "The beginning"
 date: 2017-09-20
 excerpt: "Getting the hang of things."
-tags: [git]
+tags:
+- git
 feature: https://git-scm.com/images/about/index1@2x.png
 comments: true
 ---
