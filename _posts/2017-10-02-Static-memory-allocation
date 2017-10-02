@@ -38,3 +38,7 @@ allocated an appropriate amount of memory, depending on the amount of players in
 ### Determining scope and lifetime
 Usually the scope of a statically declared variable is global as local variables get allocated when their function is called,
 the exclusion being static local variables, this means that their lifetime is the entire lifetime of the application.
+
+---
+
+Modernescpp.com. (2017). Pros and Cons of the various Memory Allocation Strategies. [online] Available at: http://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies [Accessed 2 Oct. 2017].
