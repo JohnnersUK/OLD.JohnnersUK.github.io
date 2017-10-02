@@ -3,7 +3,9 @@ layout: post
 title: "Static memory allocation"
 date: 2017-10-02
 excerpt: "All things static."
-tags: [L-LPG]
+tags:
+- L-LPG
+- Research Notes
 feature: http://s3.amazonaws.com/digitaltrends-uploads-prod/2017/07/close-up-computer-ram.jpg
 comments: true
 ---
