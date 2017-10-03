@@ -41,6 +41,11 @@ allocated an appropriate amount of memory, depending on the amount of players in
 Usually the scope of a statically declared variable is global as local variables get allocated when their function is called,
 the exclusion being static local variables, this means that their lifetime is the entire lifetime of the application.
 
+### Objects and static memory
+If a class has a static variable in its properties, all objects made from that class will share that same variable
+instead of creating a new local variable. This can be useful for a number of applications such as a unified pool
+(Like money or something) shared by all members.
+
 ---
 
 Modernescpp.com. (2017). Pros and Cons of the various Memory Allocation Strategies. [online] Available at: http://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies [Accessed 2 Oct. 2017].
