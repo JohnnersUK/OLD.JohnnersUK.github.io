@@ -5,7 +5,7 @@ date: 2017-10-02
 excerpt: "First real development log"
 tags:
 - L-LPG
-- Research Notes
+- Game 2
 feature: http://i0.kym-cdn.com/entries/icons/mobile/000/014/879/SNAKE!.jpg
 comments: true
 ---
@@ -38,4 +38,4 @@ Class for the pickups
 
 //insert object diagram here
 
-Both pickup and eagle class will interact with members of the snake class, with no crossover between.
+Both pickup and eagle class will interact with members of the snake class, with no crossover between _eagles don't need pickups_.
