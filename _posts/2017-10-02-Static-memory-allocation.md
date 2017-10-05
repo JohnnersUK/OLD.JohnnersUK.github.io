@@ -46,6 +46,11 @@ If a class has a static variable in its properties, all objects made from that c
 instead of creating a new local variable. This can be useful for a number of applications such as a unified pool
 (Like money or something) shared by all members.
 
+Classes can also have static functions that can be used to change the static variables within a class without the need
+to create a object to modify the variable.
+
+This can have a variety of uses for updating all objects from a class in one fell swoop.
+
 ---
 
 Modernescpp.com. (2017). Pros and Cons of the various Memory Allocation Strategies. [online] Available at: http://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies [Accessed 2 Oct. 2017].
