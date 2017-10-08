@@ -20,7 +20,7 @@ with a few conditions, The game has to work (Obviously) and it needs to be signi
 So the idea is that you play a normal game of snake, but in some AO compound, an each dot is a piece of intel.
 A set amount of intel is required per mission and once collected you can exit through the escape route or continue
 collecting intel for bigger score. As you play obviously your snake gets longer, making you easier to spot by the
-patrolling eagles which will proceed to eat you once spotted. <br>_Eagles eat snakes, right?_
+patrolling eagles which will proceed to eat you once spotted. 
 
 ## Structure
 Structuring the game should go as follows:
@@ -36,4 +36,4 @@ Class for the pickups
 
 //insert object diagram here
 
-Both the pickup and eagle class will interact with members of the snake class, with no crossover between <br>_eagles don't need pickups_.
+Both the pickup and eagle class will interact with members of the snake class, with no crossover between
