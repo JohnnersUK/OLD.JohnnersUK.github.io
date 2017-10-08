@@ -58,7 +58,7 @@ private:
     static int torque = 1;
 
 public:
-    static int setTorque(x);
+    static int setTorque(int x);
 }
 
 int setTorque(x)
@@ -69,7 +69,7 @@ int setTorque(x)
 
 The above code show how you could use static variables anf functions to change the value of torque for all vehicle objects without the need to create one first.
 
-All of this infrmation has been condensed into a powerpoint presentation you can view bellow
+All of this information has been condensed into a powerpoint presentation you can view bellow
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAgt88gUVj_gQp0Yj1r2Bbm3pmkVLZm7LN0wOl60xxqzQAzlNQOqmj2UaXbKW2wp9D2hXyBmujMb7r/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
