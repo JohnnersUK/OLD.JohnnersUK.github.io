@@ -36,4 +36,3 @@ Class for the pickups
 
 //insert object diagram here
 
-Both the pickup and eagle class will interact with members of the snake class, with no crossover between

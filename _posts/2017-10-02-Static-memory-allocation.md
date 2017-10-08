@@ -51,6 +51,28 @@ to create a object to modify the variable.
 
 This can have a variety of uses for updating all objects from a class in one fell swoop.
 
+```C++
+class Vehicle
+{
+private:
+    static int torque = 1;
+
+public:
+    static int setTorque(x);
+}
+
+int setTorque(x)
+{
+    Vehicle::torque = x;
+}
+```
+
+The above code show how you could use static variables anf functions to change the value of torque for all vehicle objects without the need to create one first.
+
+All of this infrmation has been condensed into a powerpoint presentation you can view bellow
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAgt88gUVj_gQp0Yj1r2Bbm3pmkVLZm7LN0wOl60xxqzQAzlNQOqmj2UaXbKW2wp9D2hXyBmujMb7r/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ---
 
 Modernescpp.com. (2017). Pros and Cons of the various Memory Allocation Strategies. [online] Available at: http://www.modernescpp.com/index.php/pros-and-cons-of-the-various-memory-management-strategies [Accessed 2 Oct. 2017].
