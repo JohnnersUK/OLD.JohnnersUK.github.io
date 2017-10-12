@@ -48,7 +48,7 @@ Class for the game co-ordinator<br>
 This will hold overall information about the game as well as functions for key events such as spawnng prisoners
 
 <figure>
-	<a href="\assets\img\nomnoml.png"><img src="\assets\img\nomnoml.png"></a>
-	<figcaption><a href="\assets\img\nomnoml.png" title="A simple uml diagram of the game, subject to change">A simple uml diagram of the game, subject to change</a>.</figcaption>
+	<img src="\assets\img\nomnoml.png">
+	<figcaption><a title="A simple uml diagram of the game, subject to change">A simple uml diagram of the game, subject to change</a>.</figcaption>
 </figure>
 
