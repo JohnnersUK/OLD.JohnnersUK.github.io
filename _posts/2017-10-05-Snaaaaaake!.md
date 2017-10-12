@@ -49,6 +49,6 @@ This will hold overall information about the game as well as functions for key e
 
 <figure>
 	<img src="\assets\img\nomnoml.png">
-	<figcaption><a title="A simple uml diagram of the game, subject to change">A simple uml diagram of the game, subject to change</a>.</figcaption>
+	<figcaption>A simple uml diagram of the game, subject to change.</figcaption>
 </figure>
 
