@@ -6,7 +6,7 @@ excerpt: "First real development log"
 tags:
 - L-LPG
 - Game 2
-feature: http://i0.kym-cdn.com/entries/icons/mobile/000/014/879/SNAKE!.jpg
+feature: http://www.brandcrowd.com/gallery/brands/pictures/picture13512660145990.jpg
 comments: true
 ---
 
