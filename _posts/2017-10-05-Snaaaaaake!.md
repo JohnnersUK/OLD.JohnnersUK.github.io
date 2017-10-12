@@ -6,7 +6,7 @@ excerpt: "First real development log"
 tags:
 - L-LPG
 - Game 2
-feature: http://i.dailymail.co.uk/i/pix/2017/03/01/13/3DD64B2D00000578-4270932-Nokia_has_announced_a_new_version_of_the_cult_game_Snake_for_Fac-a-22_1488374824594.jpg
+feature: http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/02/27/Pictures/_59b6d7ee-fcad-11e6-905d-7be79ae01fbf.jpg
 comments: true
 ---
 
