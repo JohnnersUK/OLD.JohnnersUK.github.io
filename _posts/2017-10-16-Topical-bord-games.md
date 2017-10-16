@@ -6,7 +6,7 @@ excerpt: "Designing ideas for a table top game"
 tags:
 - P&G
 - Board game
-feature: https://previews.123rf.com/images/stockbroker/stockbroker1002/stockbroker100201169/6452702-Family-Playing-Board-Game-At-Home-Stock-Photo.jpg
+feature: http://www.listchallenges.com/f/lists/45595ec5-7e32-44fc-8b25-a5ca1d9424aa.jpg
 comments: true
 ---
 
