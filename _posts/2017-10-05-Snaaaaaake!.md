@@ -6,7 +6,7 @@ excerpt: "First real development log"
 tags:
 - L-LPG
 - Game 2
-feature: http://www.brandcrowd.com/gallery/brands/pictures/picture13512660145990.jpg
+feature: http://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/02/27/Pictures/_59b6d7ee-fcad-11e6-905d-7be79ae01fbf.jpg
 comments: true
 ---
 
@@ -48,7 +48,7 @@ Class for the game co-ordinator<br>
 This will hold overall information about the game as well as functions for key events such as spawnng prisoners
 
 <figure>
-	<img src="\assets\img\nomnoml.png">
-	<figcaption><a title="A simple uml diagram of the game, subject to change">A simple uml diagram of the game, subject to change</a>.</figcaption>
+	<img src="../assets/img/nomnoml.png">
+	<figcaption>A simple uml diagram of the game, subject to change.</figcaption>
 </figure>
 
