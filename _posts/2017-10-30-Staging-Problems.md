@@ -6,7 +6,7 @@ excerpt: "A story of over ambitious planning"
 tags:
 - Game 2
 - L-LPG
-feature: http://www.listchallenges.com/f/lists/45595ec5-7e32-44fc-8b25-a5ca1d9424aa.jpg
+feature: https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiajMiIyJnXAhURPVAKHRiGDdEQjBwIBA&url=http%3A%2F%2Fwww.quickanddirtytips.com%2Fsites%2Fdefault%2Ffiles%2Fimages%2F5365%2Fmistake.jpg&psig=AOvVaw1S08ClleO5Osi2LKCTD-KR&ust=1509494676933378
 comments: true
 ---
 
@@ -46,12 +46,14 @@ _lets say the snake position is [1,1] and all 3 boddies are to the left. B for b
 [6] targetPosition = lastPosition [-2,1] <br>
 [7] -exit for loop- <br>
 
-However apparently not, I'm probably just being dumb, but this code just wouldn't work. So after many hours I found a new method, it uses more memory due to storing more variables however it actually work so atleast theres that
+However apparently not, I'm probably just being dumb, but this code just wouldn't work. So after many hours I found a new method, it uses more memory due to storing more variables however it actually work so atleast theres that.
 
 ## What now then?
 Now that he core game is done I have just over a week left, not a lot. So i'm ditching the stealth game idea and taking a more simple approach.
 
-Bats are going to fly at the player in increasing numbers, and the player can destroy the bats by shooting them. The players ammo reserve will be as big as the snake trail and the player can reload by collecting another pickup.
+Bats are going to fly at the player in increasing numbers, and the player can destroy the bats by shooting them. The players ammo reserve will be as big as a standard six shooter and the player can reload by collecting another pickup. This will increase the pressure on the player as they will not only have to avoid their own tail, they will have to position themselves correctly in order to destroy the bats. More priority will be given to collecting the pickups as they need them to survive the onslaught of bats. With the change in mechanics comes a change in theme, going from futuristing espionage to the good ol' west, Full of cacti, tumble weeds and whiskey.
 
-Fingers crossed this idea will be simple enough to polish off by the end of the week, including a full scoreboard and a simple options menu (for adjusting the difficulty, snake speed etc.) The hand in is thursday next week so I'll update again on saturday and then after I've recived feedback.
+Ofcourse with these changes I'll need to add 2 new objects to the game, warranting a change in the original UML I posted as well as some new psuedo code, but thats just how these things work and I can already feel the crunch intensifying. 
+
+I'm not even gonna jinks it this time around, this idea will be simple enough to polish off by the end of the week, including a full scoreboard and a simple options menu (for adjusting the difficulty, snake speed etc.) The hand in is thursday next week so I'll update again on saturday and then after I've recived feedback.
 
