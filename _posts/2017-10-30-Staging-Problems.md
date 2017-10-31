@@ -6,7 +6,7 @@ excerpt: "A story of over ambitious planning"
 tags:
 - Game 2
 - L-LPG
-feature: https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiajMiIyJnXAhURPVAKHRiGDdEQjBwIBA&url=http%3A%2F%2Fwww.quickanddirtytips.com%2Fsites%2Fdefault%2Ffiles%2Fimages%2F5365%2Fmistake.jpg&psig=AOvVaw1S08ClleO5Osi2LKCTD-KR&ust=1509494676933378
+feature: http://www.quickanddirtytips.com/sites/default/files/images/5365/mistake.jpg
 comments: true
 ---
 
