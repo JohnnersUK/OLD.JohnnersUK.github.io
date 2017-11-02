@@ -51,7 +51,9 @@ However apparently not, I'm probably just being dumb, but this code just wouldn'
 ## What now then?
 Now that he core game is done I have just over a week left, not a lot. So i'm ditching the stealth game idea and taking a more simple approach.
 
-Bats are going to fly at the player in increasing numbers, and the player can destroy the bats by shooting them. The players ammo reserve will be as big as a standard six shooter and the player can reload by collecting another pickup. This will increase the pressure on the player as they will not only have to avoid their own tail, they will have to position themselves correctly in order to destroy the bats. More priority will be given to collecting the pickups as they need them to survive the onslaught of bats. With the change in mechanics comes a change in theme, going from futuristing espionage to the good ol' west, Full of cacti, tumble weeds and whiskey.
+Im going to chane my snake into a trail of ducklings, with the head acting as mother duck. Theme aside the player will have a small goal in wich they can deposit their ducklings for bonus points, the more ducklings they deposit at once the higher the score. There will also be some sort of object stoping the player from easily depositing duckies, adding a risk reward element to my game. <br>
+
+<img src="../assets/img/player.png"> 	<img src="../assets/img/Body.png">
 
 Ofcourse with these changes I'll need to add 2 new objects to the game, warranting a change in the original UML I posted as well as some new psuedo code, but thats just how these things work and I can already feel the crunch intensifying. 
 
