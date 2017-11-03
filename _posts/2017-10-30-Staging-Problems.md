@@ -51,7 +51,7 @@ However apparently not, I'm probably just being dumb, but this code just wouldn'
 ## What now then?
 Now that he core game is done I have just over a week left, not a lot. So i'm ditching the stealth game idea and taking a more simple approach.
 
-Im going to chane my snake into a trail of ducklings, with the head acting as mother duck. Theme aside the player will have a small goal in wich they can deposit their ducklings for bonus points, the more ducklings they deposit at once the higher the score. There will also be some sort of object stoping the player from easily depositing duckies, adding a risk reward element to my game. <br>
+Im going to chane my snake into a trail of ducklings, with the head acting as mother duck. Theme aside the player will have a small goal in wich they can deposit their ducklings for bonus points, the more ducklings they deposit at once the higher the score. This will add a risk/reward factor into the game as the player wil move faster each duckling they pickup, increasing the difficulty but also increasing the reward<br>
 
 <img src="../assets/img/player.png"> 	<img src="../assets/img/Body.png">
 
