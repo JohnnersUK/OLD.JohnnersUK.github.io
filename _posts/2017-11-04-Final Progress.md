@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Staging Problems"
+title: "Final Progress"
 date: 2017-10-30
-excerpt: "A story of over ambitious planning"
+excerpt: "3 days to go"
 tags:
 - Game 2
 - L-LPG
@@ -10,7 +10,7 @@ feature: "../assets/img/duck_game.png"
 comments: true
 ---
 
-#Final progress report
+# Final progress report
 Here it is, the last stretch until submission.
 This post is just mainly housekeeping so I’ll keep it brief.
 ## Recap of the final idea
