@@ -22,7 +22,7 @@ I’ll be making a larger post soon with all my blueprints and plans etc. but th
 I am using squared paper to plan the top and side of each sequence, as well as a set of node maps to show the flow of the level, a character sheet detailing the players abilities, and some sketches of rooms and such as an overview.
 
 ## Sourcing ideas
-I wanted to do something a little different, all my peers are making a flat sci-fi puzzle game however I think that’s a bit dull and lifeless. As an avid horror fan I adore the ALIEN franchise as well as the original dead space, so instead of creating a time trailed puzzle game, I aim to make an atmospheric horror short with puzzle elements. 
+I wanted to do something a little different, all my peers are making a flat sci-fi puzzle game however I think that’s a bit dull and lifeless. As an avid horror fan I adore the ALIEN franchise as well as the original dead space, so instead of creating a time trial/puzzle game, I aim to make an atmospheric horror short with puzzle elements. 
 
 So with this in mind I've collected some images, re-watched alien and YouTube’d a let’s play of dead space in order to a) get some ideas and b) get my mind in the zone.
 
