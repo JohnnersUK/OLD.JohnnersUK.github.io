@@ -28,5 +28,7 @@ So with this in mind I've collected some images, re-watched alien and YouTube’
 
 {% capture images %} ../assets/img/space1.jpg ../assets/img/space2.jpg ../assets/img/space3.jpg ../assets/img/space4.jpg ../assets/img/space5.jpg ../assets/img/space6.jpg {% endcapture %} {% include gallery images=images caption="Some cool space images" cols=2 %}
 
+---
+
 Hope you enjoyed the update, will post my designs ASAP.
 
