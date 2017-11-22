@@ -30,5 +30,6 @@ So with this in mind I've collected some images, re-watched alien and YouTube’
 
 ---
 
-Hope you enjoyed the update, will post my designs ASAP.
+Hope you enjoyed the update, will post my designs next week.<br>
+__I'll also share my results from snake inbetween__
 
