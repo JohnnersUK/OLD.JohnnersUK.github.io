@@ -2,7 +2,7 @@
 layout: post
 title: "Final Progress"
 date: 2017-10-30
-excerpt: "3 days to go"
+excerpt: "Updated: And the results are in!"
 tags:
 - Game 2
 - L-LPG
@@ -30,4 +30,11 @@ This project didn't go as smoothly as I hoped and there are a few mechanics I wi
 I wanted to have the pickups moving across the screen slowly, but I found that this didn't really work as it A) made the game impossible in certain scenarios (The egg would frequently travel over the player body and B) just wasn't that fun
 I would also have liked to add another obstacle for the player to avoid because as it stands the game can last indefinably if the player only collects one egg at a time.
 My code structure is good as far as I can tell and the game is well implemented, with no known bugs, however I might add that next time I would use a vector for the duck body, it's just we were advised not to as the lecturer had not covered them yet.
+
+#Marking
+So turns out duck game went down a treat! Coding wasn't as strong as overall gameplay experience however I can only improve from here
+To improve:
+- Object orientation
+- Memory managment
+
 
