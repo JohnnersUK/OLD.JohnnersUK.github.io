@@ -4,7 +4,7 @@ title: "To infinity and beyond!"
 date: 2017-11-12
 excerpt: "Dinky little dinosaurs"
 tags:
-- Space Place
+- Dinky little dino
 - GLD
 feature: https://i.ytimg.com/vi/zItdK13pSik/maxresdefault.jpg
 comments: true

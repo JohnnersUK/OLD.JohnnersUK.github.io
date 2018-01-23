@@ -5,7 +5,7 @@ date: 2017-10-13
 excerpt: "Locomotion at its finest"
 tags:
 - L-LPG
-- Game 2
+- Duck duck evolution
 feature: http://innovationexcellence.com/wp-content/uploads/2016/11/organizational-alignment-roadmap-1366x805-1024x603.jpg
 comments: true
 ---

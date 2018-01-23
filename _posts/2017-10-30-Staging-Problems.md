@@ -4,7 +4,7 @@ title: "Staging Problems"
 date: 2017-10-30
 excerpt: "A story of over ambitious planning"
 tags:
-- Game 2
+- Duck duck evolution
 - L-LPG
 feature: http://www.quickanddirtytips.com/sites/default/files/images/5365/mistake.jpg
 comments: true

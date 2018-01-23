@@ -4,7 +4,7 @@ title: "Final Progress"
 date: 2017-10-30
 excerpt: "Updated: And the results are in!"
 tags:
-- Game 2
+- Duck duck evolution
 - L-LPG
 feature: "../assets/img/duck_game.png"
 comments: true
