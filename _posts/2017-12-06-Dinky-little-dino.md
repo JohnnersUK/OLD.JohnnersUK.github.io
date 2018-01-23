@@ -18,5 +18,6 @@ As of alpha build 0.1 the game has semi-feature terrain generation with a contro
 - Complete the terrain generation system
 - Implement obstacles such as spikes, ballistic missiles and Mothra
 - Finish the character controller, adding kick and fireball attacks with animations
-- Add civilians, buildings and other score increasing pickups <br>
+- Add civilians, buildings and other score increasing pickups
+
 Updates can be found in the blog section of this portfolio under the category dinky little dino.
