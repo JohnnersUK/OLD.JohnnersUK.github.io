@@ -15,13 +15,13 @@ It is time, once again, to develop another game, this time based off of the Osca
  The film never answers these question but instead leaves the audience with a very thought provoking climax, that is if you even get the film in the first place.
 
 ## Game time
- <img src="https://media.salon.com/2015/02/birdman_times_square.jpg" alt="The scene in question" align="left" height="200" border="3">With all that aside, a few class mates and I wanted to make a game based off one scene in particular. The scene where birdman gets locked outside.
+ With all that aside, a few class mates and I wanted to make a game based off one scene in particular. The scene where birdman gets locked outside.
 
  Whilst a pivotal scene in the film, which points out how dependant Michael Keaton is on the bridman, we wanted to detach ourselves from the franchise and focus on the premise of being locked out with little time before your big show.
 
  Naturally this blends well with the puzzle genre because if finding a way back in was a simple as walking around front like in the film there wouldn't be much of a game at all. The game will also be Point and click styled as we feel it is the easiest type of game to access, you just point and click.
 
- ###  Game flow
+ ### Game flow
 To show the flow of the game and the paths the player can take we made a mock up diagram to show how, so far, the player can beat the game;<br>
 <img src="../assets/img/BirdmanFlow.png" alt="Game flow" allign="centre">
  ### UML
