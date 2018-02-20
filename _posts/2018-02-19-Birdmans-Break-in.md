@@ -21,9 +21,9 @@ It is time, once again, to develop another game, this time based off of the Osca
 
  Naturally this blends well with the puzzle genre because if finding a way back in was a simple as walking around front like in the film there wouldn't be much of a game at all. The game will also be Point and click styled as we feel it is the easiest type of game to access, you just point and click.
 
- ### Game flow
+## Game flow
  To show the flow of the game and the paths the player can take we made a mock up diagram to show how, so far, the player can beat the game;<br>
  <img src="../assets/img/BirdmanFlow.png" alt="Game flow" allign="centre">
- ### UML
+## UML
  Along with a simple UML diagram; <br>
  <img src="../assets/img/BirdmanUML.png" alt="Game flow" allign="centre">
