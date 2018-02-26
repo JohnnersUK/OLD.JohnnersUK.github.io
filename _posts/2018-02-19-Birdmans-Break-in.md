@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Birdmans break-in"
-date: 2017-11-12
+date: 2018-02-19
 excerpt: "A game based off a scene in a movie about play writing"
 tags:
-- Birdmans Break-in
+- Birdman's Break-in
 - GLD
 feature: http://pop-verse.com/wp-content/uploads/2015/01/banner-birdman-film_page_np-620x330.jpg
 comments: true
