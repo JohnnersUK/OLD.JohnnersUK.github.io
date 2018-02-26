@@ -6,7 +6,7 @@ excerpt: "How to scene"
 tags:
 - Birdman’s Break-in
 - GLD
-feature: https://thumb1.shutterstock.com/display_pic_with_logo/3391/282552467/stock-photo-young-movie-director-holding-a-clapperboard-and-looking-at-the-camera-isolated-on-white-background-282552467.jpg
+feature: https://image.shutterstock.com/z/stock-photo-young-movie-director-holding-a-clapperboard-and-shouting-on-a-megaphone-isolated-on-white-background-297730922.jpg
 comments: true
 ---
 
