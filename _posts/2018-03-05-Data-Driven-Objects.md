@@ -6,7 +6,7 @@ excerpt: "Information highway"
 tags:
 - Birdman’s Break-in
 - GLD
-feature: https://image.shutterstock.com/z/stock-photo-young-movie-director-holding-a-clapperboard-and-shouting-on-a-megaphone-isolated-on-white-background-297730922.jpg
+feature: http://opargo.com/wp-content/uploads/2016/09/AdobeStock_103060701-1140x560.jpeg
 comments: true
 ---
 # Data driven objects
