@@ -43,6 +43,9 @@ The init function would then find and open the file and then initialize all of t
 if (myFile.open())
 {
     if (myFile >> name >> sprite >> description >> combination)
+    {
+        return true;
+    }
 }
 ```
 
