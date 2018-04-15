@@ -6,7 +6,7 @@ excerpt: "Polishing break-in"
 tags:
 - Birdman’s Break-in
 - GLD
-feature: http://opargo.com/wp-content/uploads/2016/09/AdobeStock_103060701-1140x560.jpeg
+feature: https://media.gettyimages.com/photos/two-fly-fishermen-in-a-river-one-catching-a-fish-picture-id601969691
 comments: true
 ---
 # Birdman speedrun
