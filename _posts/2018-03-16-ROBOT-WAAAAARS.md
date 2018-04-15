@@ -6,7 +6,7 @@ excerpt: "The big one"
 tags:
 - Robot Wars
 - L-LPG
-feature: https://vignette.wikia.nocookie.net/robotwars/images/e/e1/2016_House_Robots.jpg/revision/latest?cb=20160624140757
+feature: http://stuffthatinterests.me/wp-content/uploads/house-robots-robot-wars.png
 comments: true
 ---
 # The final countdown
