@@ -11,13 +11,13 @@ tag:
 comments: true
 ---
 # Birdman's break-in
-Based off of the academy award winning film Birdman.
-Comes a game 3 students made in 4 weeks.
+**Based off of the academy award winning film Birdman.
+Comes a game 3 students made in 4 weeks.** <br>
+
+**Play as birdman, a down on his luck actor looking for his next break of fame.
+Use your wit and problem-solving skills to out run your past and make it back in time for the big show!**
 
 <img src="../assets/img/birdman3.png">
-
-Play as birdman a down on his luck actor looking for his next break of fame.
-Use your wit and problem-solving skills to out run your past and make it back in time for the big show!
 
 All cheesiness aside, Birdman's break-in is a point and click adventure based off of the famous lockout scene.
 This project was made by myself and 2 other team mates over the span of 4 weeks.
