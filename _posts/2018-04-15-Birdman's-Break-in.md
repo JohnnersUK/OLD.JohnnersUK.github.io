@@ -30,6 +30,8 @@ And much more!
 
 Posts covering the development of this project can be found in the blog section of this portfolio under the "Birdman's break-in" tag
 
+This project was coded in c++. The source code for this project can be found [Here (github)](https://github.com/JohnnersUK/birdmans-break-in) and can be compiled in visual studio 2017 with the Windows SDK 10.0.16299.0.
+
 So far, this game is a 30 second set piece showcasing the scene management and data driven systems behind the scenes, expansion into a full game is unlikely.
 
 _This game has no affiliation with birdman or Alejandro González Iñárritu, it's just a silly uni project_

@@ -20,6 +20,6 @@ As of alpha build 0.1 the game has semi-feature terrain generation with a contro
 - Finish the character controller, adding kick and fireball attacks with animations
 - Add civilians, buildings and other score increasing pickups
 
-Dinky little dino can be donwloaded here: https://github.com/JohnnersUK/Dinky-Little-Dino
+This project was coded in c++. The source code for this project can be found [Here (github)](https://github.com/JohnnersUK/Dinky-Little-Dino) and can be compiled in visual studio 2017 with the Windows SDK 10.0.16299.0.
 
 Updates can be found in the blog section of this portfolio under the category dinky little dino.
