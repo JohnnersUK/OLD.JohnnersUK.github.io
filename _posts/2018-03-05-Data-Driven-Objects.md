@@ -19,13 +19,10 @@ This has 2 benefits;
 First, objects that are data driven can be changed without hard code. Say you design a generic system for NPC's in a game that would be passed onto the designers and artists to fill a game with characters. By data driving the objects, the designers don't need to know how to code, they just edit a text file and boom, more NPC's.
 
 And secondly, balancing a game becomes so much easier when you can just open a text file and change some damage values without the need to rebuild the entire game. Whilst not fully applicable here, a game like say... the Witcher 3, would take quite some time to compile. And over time, this can really speed up the development process.
-
-<img scr="../assets/img/birdman1.png">
-
+<img src="../assets/img/birdman1.png">
 ## How?
 Data driving the objects in birdman’s break-in proved to be real easy.
-<img scr="http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png">
-
+<img src="http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png">
 Both the NPC's and Items would have an init function that would be called on declaration and passed the directory of the item's text file (E.g. pen.txt).
 This text file would contain a directory for a sprite, name, description and a few other things related to trading and combining.
 
@@ -48,9 +45,7 @@ if (myFile.open())
     }
 }
 ```
-
-<img scr="../assets/img/birdman2.png">
-
+<img src="../assets/img/birdman2.png">
 So now say I wanted to change the flow of the game; say I wanted the drain to give you a token, not the homeless man. I'm just one small line away from doing so, no recompiling, no hassle.
 
 # The state of things
