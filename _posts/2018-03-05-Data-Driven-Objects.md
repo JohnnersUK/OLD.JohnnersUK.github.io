@@ -21,8 +21,8 @@ First, objects that are data driven can be changed without hard code. Say you de
 And secondly, balancing a game becomes so much easier when you can just open a text file and change some damage values without the need to rebuild the entire game. Whilst not fully applicable here, a game like say... the Witcher 3, would take quite some time to compile. And over time, this can really speed up the development process.
 <img src="../assets/img/birdman1.png">
 ## How?
-Data driving the objects in birdman’s break-in proved to be real easy.
-<img src="http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png">
+Data driving the objects in birdman’s break-in proved to be real easy. <br>
+<img src="http://i0.kym-cdn.com/entries/icons/original/000/021/807/4d7.png" width = 50%> <br>
 Both the NPC's and Items would have an init function that would be called on declaration and passed the directory of the item's text file (E.g. pen.txt).
 This text file would contain a directory for a sprite, name, description and a few other things related to trading and combining.
 
