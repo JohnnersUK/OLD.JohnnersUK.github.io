@@ -8,7 +8,7 @@ comments: false
 
 <center>
 <figure>
-        <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/11667433_1084889981541168_8060599192436294302_n.jpg?_nc_cat=0&oh=1777ceadc76093c170a072e04a4e6efa&oe=5B6FCA15" height = "25%">
+        <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/11667433_1084889981541168_8060599192436294302_n.jpg?_nc_cat=0&oh=1777ceadc76093c170a072e04a4e6efa&oe=5B6FCA15" height = "15%">
 		<figcaption>the baba yaga</figcaption>
 </figure>
 
