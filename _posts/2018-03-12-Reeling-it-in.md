@@ -17,7 +17,7 @@ So after the scene manager and data driven objects were created, all that’s wa
 
 {% capture images %} ../assets/img/birdman1.png ../assets/img/birdman2.png ../assets/img/birdman3.png ../assets/img/birdman4.png {% endcapture %} {% include gallery images=images caption="Birdman scenes" cols=2 %}
 
-Scenes in birdman were relatively simple. They contained a vector af game objects that would polymorphically store the NPC’s and items, birdman and a sprite for the background. 
+Scenes in birdman were relatively simple. They contained a vector of game objects that would polymorphically store the NPC’s and items, birdman and a sprite for the background. 
 
 This meant that scenes could be designed easily and rapidly, making future expansion of the game relatively simple.
 
