@@ -27,7 +27,7 @@ We were given a brief of both games however I had already decided as soon as I h
 XCOM is the ultimate alien invasion game. You are the commander of a secret task force, XCOM, who are earths last hope of defence against an impending invasion. Build your base, research new tech, shoot down UFO's and take the combat all the way back to mars!
 
 As simple as possible, In XCOM's turn based combat, units have a set amount of time units. This directly relates to the amount of actions they can take per turn. Actions range from shooting (Aimed, snap shot and auto), moving, turning and changing stance.
-Actions are heavily RNG based making every move a game of risk mitigation. Do you take a more accurate shot and kill that berserker? or should I get into better cover first? 
+Actions are heavily RNG based making every move a game of risk mitigation. Do you take a more accurate shot and kill that berserker? or should you get into better cover first?
 
 When a unit is killed it is gone forever, making that sniper you've spent the last 10 hours training, oh so valuable. Combat is brutal, squads can be wiped in the blink of an eye and the base building is a resource management nightmare. This game is hard as nails.
 
