@@ -5,7 +5,7 @@ date: 2018-03-05
 excerpt: "Information highway"
 tags:
 - Birdman’s Break-in
-- GLD
+- L-LPG
 feature: http://opargo.com/wp-content/uploads/2016/09/AdobeStock_103060701-1140x560.jpeg
 comments: true
 ---

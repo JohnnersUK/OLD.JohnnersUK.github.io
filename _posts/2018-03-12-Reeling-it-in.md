@@ -5,7 +5,7 @@ date: 2018-03-12
 excerpt: "Polishing break-in"
 tags:
 - Birdman’s Break-in
-- GLD
+- L-LPG
 feature: https://media.gettyimages.com/photos/two-fly-fishermen-in-a-river-one-catching-a-fish-picture-id601969691
 comments: true
 ---

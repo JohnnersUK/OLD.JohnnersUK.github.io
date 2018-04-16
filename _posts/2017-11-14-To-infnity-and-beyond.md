@@ -5,7 +5,7 @@ date: 2017-11-12
 excerpt: "Dinky little dinosaurs"
 tags:
 - Dinky little dino
-- GLD
+- L-LPG
 feature: https://media.npr.org/assets/img/2014/05/02/godzilla54_wide-b6a4e96d715770a0066b19037e6091d2c36487ae-s900-c85.jpg
 comments: true
 ---
