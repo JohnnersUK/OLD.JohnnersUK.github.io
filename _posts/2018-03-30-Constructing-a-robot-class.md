@@ -62,11 +62,48 @@ void Move(int targetPos[])
 }
 ```
 _Example code to move an object to a target x position over time._ <br>
-An attack function that would send the target robot the damage to be calculated and a hit function which would use the robots manoeuvre to see if the shot was dodged and then take that damage and apply armour reduction.
+## Atacking function
+To get the robots fighting they need both an attack and onHit function.
 
-{% capture images %} ../assets/img/weapon.png ../assets/img/body.png ../assets/img/wheel.png {% endcapture %} {% include gallery images=images caption="Level design documents" cols=3 %}
+The attack function will calculate the damage to send over. This will be worked out by thaking the robot weapon's damage value and then multiplying it by 10% of the players level. We then need to check if the attack hits, This will be done by randomizing a number between 1 and 100 and seeing if it is less than the robots accuracy%.
+
+After we're sure the attack hits we can call the target robots onHit function which will roll again, this time against the manoeuver of the robot, to see if they dodge the shot. If the shot successfully lands, the robots armour value is negated from the damage and then applied to the enemies HP. Nothing too fancy.
+
+Finally we need to calculate the hit direction in order to determine which way to rotate the robot and in what direction to play the attack animation. This is just mathsy stuff, using Atan2 and passing in the difference in x and y of the two robots we can get the angle between them in radians. This can be used directly to set both the weapon animation and robot angle.
+
+```C++
+#include <math.h>
+
+float calculateAttackDirection(int enemy_x, int enemy_y)
+{
+    int diff_x = robot_x - enemy_x;
+    int diff_y = robot_y - enemy_y;
+
+    float angle = aTan2(diff_x, diff_y);
+
+    return angle;
+}
+``` 
+## Getting the components
+
+{% capture images %} ../assets/img/weapon.png ../assets/img/body.png ../assets/img/wheel.png {% endcapture %} {% include gallery images=images caption="Preview of the robot components" cols=3 %}
 
 The robot would also need a weapon, body and wheels. Each of these would be its own class with its own sprite and stats. This will eventually allow users to customize their robots using has a relationships and initialization through JSON files.
+
+These components will have theor own stats that would effect the overall robots stats, broken down like this;
+
+**Body**
+- Health
+- Armour
+
+**Wheels**
+- Energy
+- Manoeuver
+
+**Weapon**
+- Range
+- Damage
+- Accuracy
 
 We'll get to that later but as a quick rundown, this should do for now.
 
