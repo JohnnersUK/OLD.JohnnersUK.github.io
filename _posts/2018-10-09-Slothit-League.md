@@ -13,7 +13,7 @@ comments: true
 # Slothit League
 Rocket League made in the 1980's!
 
-<img src="../assets/img/sloth.png">
+<img src="../assets/img/sloth.PNG"> <br>
 
 Set in a post-apocalyptic future where the publics rampant demand for more extreme forms of entertainment is at an all-time high and
 where all other sports are deemed too safe for work. 2 Players battle it out in the ultimate sport, football with cars!
